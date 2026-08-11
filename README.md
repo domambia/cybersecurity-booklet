@@ -2,7 +2,7 @@
 
 **A complete, hands-on self-study cybersecurity course — from computer-science graduate to security professional.**
 
-📖 **Read it online:** _(GitHub Pages link appears here once Pages finishes building — see the repo's **Settings → Pages**, or the "github-pages" deployment.)_
+📖 **Read it online → https://kevin-fincruse.github.io/cybersecurity-booklet/**
 
 ---
 
