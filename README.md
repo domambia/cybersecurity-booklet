@@ -2,7 +2,7 @@
 
 **A complete, hands-on self-study cybersecurity course — from computer-science graduate to security professional.**
 
-📖 **Read it online → https://kevin-fincruse.github.io/cybersecurity-booklet/**
+📖 **Read it online → https://domambia.github.io/cybersecurity-booklet/**
 
 ---
 

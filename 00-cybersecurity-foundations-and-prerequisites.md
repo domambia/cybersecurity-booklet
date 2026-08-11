@@ -138,7 +138,8 @@ This is the part people skip and then plateau. Treat each as "can I explain it t
 - **MITRE ATLAS** — adversarial ML tactics and techniques.
 - Core design principle from the 2026 guidance: *don't try to build a model that can't be fooled — harden the surrounding architecture so a fooled model can't cause damage.* Sandboxing, least-privilege tools, human-in-the-loop, output validation.
 - Attacks on ML: data poisoning, model extraction, membership inference, adversarial examples, jailbreaks.
-- Using AI defensively: alert triage assistance, log summarisation, code review — plus the risk of over-trusting it.
+- Using AI de
+fensively: alert triage assistance, log summarisation, code review — plus the risk of over-trusting it.
 - Securing AI *in your own org*: RAG data leakage, MCP/tool permission boundaries, shadow AI usage.
 
 ---
